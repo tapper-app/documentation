@@ -21,8 +21,8 @@
           "docs": [
             {
               "id": "intro",
-              "title": "Tutorial Intro",
-              "description": "Let's discover Docusaurus in less than 5 minutes.",
+              "title": "Intro",
+              "description": "Let's discover Tapper in less than 5 minutes.",
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
               "slug": "/intro",
@@ -355,7 +355,6 @@
                 "permalink": "/blog/tags/docusaurus"
               }
             ],
-            "readingTime": 0.405,
             "hasTruncateMarker": false,
             "authors": [
               {
@@ -410,7 +409,6 @@
                 "permalink": "/blog/tags/docusaurus"
               }
             ],
-            "readingTime": 0.175,
             "hasTruncateMarker": false,
             "authors": [
               {
@@ -463,7 +461,6 @@
                 "permalink": "/blog/tags/docusaurus"
               }
             ],
-            "readingTime": 2.05,
             "hasTruncateMarker": true,
             "authors": [
               {
@@ -515,7 +512,6 @@
                 "permalink": "/blog/tags/docusaurus"
               }
             ],
-            "readingTime": 0.12,
             "hasTruncateMarker": false,
             "authors": [
               {

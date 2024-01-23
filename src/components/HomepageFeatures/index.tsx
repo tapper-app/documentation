@@ -10,32 +10,35 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: 'Command Line Interface',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+          Tapper Provide an Interface for All Android Debug Bridge Commands That you need
+          In your Android Development Journey, No Need to Save Them in Notes, Search on Internet,
+          Also Tapper Can Execute Testing Scenarios, Monkey Testing, Powered By Npm
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Desktop Clients',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+          Tapper Provide A User Interface for Using The Commands, no need to open the Terminal,
+          You can Access Everything from a Drop Down Menu with Input Section To Write Your Information,
+          Also You can Create Commands By Registering Your Application Package Name
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Test Scenarios',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+          No need To Save the Input, or Repeat the Same Steps Again and Again,
+          Tapper Can Save All of your Commands and Execute them When you Need in a Sequence,
+          for Example Tapper Can Pass Your App Flow with Coordinates Clicks Automated
       </>
     ),
   },

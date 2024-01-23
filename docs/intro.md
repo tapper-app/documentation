@@ -2,46 +2,62 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Let's discover **Tapper in less than 5 minutes**.
 
 ## Getting Started
 
-Get started by **creating a new site**.
+Get Started by Understanding how Tapper Work and Why its Created Like This
+When You See the Source Code of the Project You will notice that the project built with Several Languages and thats to Cover All Cases for Android Development because not all users has the same Case, May some of them use CLI Commands Only and Others Use Macos UI Only and Others Use Windows Client Only for this Reason Tapper Cover all of these Platforms
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Now The Main Core of the Project is the CLI, The Command Line Interface has All ADB Commands and the Questions, Logic of Picking the Questions and Options all of them Built inside The CLI and the Main Reason that The UI Clients Built is to Execute Tapper Commands Only
 
-### What you'll need
+The Cli has 5 Options to Execute and All of them Built to Pick in a Dropdown Menu Options in case of CLI Case, but when it come from UI it Execute the Commands Directly without Opening the CLI or Picking Anything
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+### What is the Features
 
-## Generate a new site
+- Control Developer Options
+- Control General Options
+- Control Automatic Testing Options
+- Control Testing Options
+- Control Android Monkey Testing
 
-Generate a new Docusaurus site using the **classic template**.
+## Installation
 
-The classic template will automatically be added to your project after you run the command:
+As we Know Tapper Cli is the Core Code of the Project and The Main Important thing is to Install the Cli on Your Device and This can be Done by the Next Steps
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+1. Install the Latest Node Version
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+   - [Node.js](https://nodejs.org/en/download/) version 20.0 or above:
 
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
+2. Execute the Following Command in Your Device Terminal
 
 ```bash
-cd my-website
-npm run start
+npm i -g tapper-core
 ```
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+Now Tapper Installed and You Can Run the CLI to make Sure that Tapper Working Fine
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+Write the Following Command in Your Terminal to Start Tapper
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+```bash
+npx tapper
+```
+
+## Validating ADB
+
+ADB is the Main Important Part in Tapper and You Need to Install Android Debug Bridge Tool Before You Start Tapper and you Can Follow Android Documentation to See how to Install ADB in a Root Path
+
+[ADB Link](https://developer.android.com/tools/adb)
+
+After Installing ADB You can Open Tapper then Pick Validate ADB Installation to see if its Installed or Not
+
+## Final Step
+
+The Final Step in the Step is To Pick the Client for Your System
+1. macOS
+2. Windows
+3. Linux
+
+After Downloading the Apps You can Continue in the Next Sections
