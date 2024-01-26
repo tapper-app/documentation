@@ -1,112 +1,69 @@
 {
-  "/__docusaurus/debug-ce2": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-08-c-627"
-    }
-  },
-  "/__docusaurus/debug/config-3c6": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-08-c-627"
-    }
-  },
-  "/__docusaurus/debug/content-5f1": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-08-c-627"
-    },
-    "allContent": "allContent---docusaurus-debug-content-246-9aa"
-  },
-  "/__docusaurus/debug/globalData-913": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-08-c-627"
-    }
-  },
-  "/__docusaurus/debug/metadata-522": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-08-c-627"
-    }
-  },
-  "/__docusaurus/debug/registry-dae": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-08-c-627"
-    }
-  },
-  "/__docusaurus/debug/routes-28d": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---docusaurus-debug-08-c-627"
-    }
-  },
   "/markdown-page-016": {
-    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__comp": "1f391b9e",
     "__context": {
-      "plugin": "plugin---markdown-page-5-a-1-f34"
+      "plugin": "5a1dbc57"
     },
-    "content": "content---markdown-page-393-028"
+    "content": "393be207"
   },
   "/docs-c01": {
-    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__comp": "5e95c892",
     "__context": {
-      "plugin": "plugin---docs-12-f-278"
+      "plugin": "12fba3c1"
     }
   },
   "/docs-87d": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "version": "version---docs-935-398"
+    "__comp": "a7bd4aaa",
+    "version": "935f2afb"
   },
   "/docs-1e0": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
+    "__comp": "a94703ab"
   },
   "/docs/category/cli---tutorial-5ce": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-cli-tutorial-3-a-0-30e"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "3a00e9c0"
   },
   "/docs/category/desktop-application-530": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-desktop-application-353-a86"
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "353beecb"
   },
   "/docs/intro-aed": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-intro-0-e-3-be1"
+    "__comp": "17896441",
+    "content": "0e384e19"
   },
   "/docs/tutorial-basics/congratulations-793": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-congratulations-822-958"
+    "__comp": "17896441",
+    "content": "822bd8ab"
   },
   "/docs/tutorial-basics/developer-options-5b6": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-developer-optionsea-3-a08"
+    "__comp": "17896441",
+    "content": "ea3e40da"
   },
   "/docs/tutorial-basics/general-options-a35": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-general-optionsc-90-0c2"
+    "__comp": "17896441",
+    "content": "c90b20fa"
   },
   "/docs/tutorial-basics/introduction-6a1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-introduction-1-e-5-1bd"
+    "__comp": "17896441",
+    "content": "1e5007e5"
   },
   "/docs/tutorial-basics/testing-commands-477": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-testing-commandse-37-0f5"
+    "__comp": "17896441",
+    "content": "e37016e9"
   },
   "/docs/tutorial-extras/functions-095": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-extras-functionsc-97-ea6"
+    "__comp": "17896441",
+    "content": "c97d7b09"
   },
   "/docs/tutorial-extras/startup-b99": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-extras-startup-66-a-308"
+    "__comp": "17896441",
+    "content": "66ab06af"
   },
   "/-562": {
-    "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",
+    "__comp": "1df93b7f",
     "__context": {
-      "plugin": "plugin---markdown-page-5-a-1-f34"
+      "plugin": "5a1dbc57"
     },
-    "config": "config---5-e-9-4f3"
+    "config": "5e9f5e1a"
   }
 }
