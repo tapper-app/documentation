@@ -45,14 +45,14 @@
           },
           {
             "type": "link",
-            "label": "Deploy your site",
-            "href": "/docs/tutorial-basics/deploy-your-site",
-            "docId": "tutorial-basics/deploy-your-site",
+            "label": "Testing Commands",
+            "href": "/docs/tutorial-basics/testing-commands",
+            "docId": "tutorial-basics/testing-commands",
             "unlisted": false
           },
           {
             "type": "link",
-            "label": "Congratulations!",
+            "label": "Direct Commands",
             "href": "/docs/tutorial-basics/congratulations",
             "docId": "tutorial-basics/congratulations",
             "unlisted": false
@@ -94,14 +94,8 @@
     },
     "tutorial-basics/congratulations": {
       "id": "tutorial-basics/congratulations",
-      "title": "Congratulations!",
-      "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
-      "sidebar": "tutorialSidebar"
-    },
-    "tutorial-basics/deploy-your-site": {
-      "id": "tutorial-basics/deploy-your-site",
-      "title": "Deploy your site",
-      "description": "Docusaurus is a static-site-generator (also called Jamstack).",
+      "title": "Direct Commands",
+      "description": "Direct Commands Description, These Commands Without Options",
       "sidebar": "tutorialSidebar"
     },
     "tutorial-basics/developer-options": {
@@ -120,6 +114,12 @@
       "id": "tutorial-basics/introduction",
       "title": "CLI Introduction",
       "description": "A Brief description about CLI Options",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/testing-commands": {
+      "id": "tutorial-basics/testing-commands",
+      "title": "Testing Commands",
+      "description": "Testing Options Description (Commands, Params, Usage)",
       "sidebar": "tutorialSidebar"
     },
     "tutorial-extras/manage-docs-versions": {

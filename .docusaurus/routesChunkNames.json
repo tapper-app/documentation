@@ -49,17 +49,17 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-d01": {
+  "/docs-ae5": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docs-12-f-278"
     }
   },
-  "/docs-0a8": {
+  "/docs-19c": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "version": "version---docs-935-398"
   },
-  "/docs-5fd": {
+  "/docs-296": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/category/cli---tutorial-5ce": {
@@ -78,10 +78,6 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-tutorial-basics-congratulations-822-958"
   },
-  "/docs/tutorial-basics/deploy-your-site-e46": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-deploy-your-sitef-55-a3f"
-  },
   "/docs/tutorial-basics/developer-options-5b6": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-tutorial-basics-developer-optionsea-3-a08"
@@ -93,6 +89,10 @@
   "/docs/tutorial-basics/introduction-6a1": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-tutorial-basics-introduction-1-e-5-1bd"
+  },
+  "/docs/tutorial-basics/testing-commands-477": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-basics-testing-commandse-37-0f5"
   },
   "/docs/tutorial-extras/manage-docs-versions-fdd": {
     "__comp": "__comp---theme-doc-item-178-a40",

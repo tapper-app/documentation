@@ -44,15 +44,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'd01'),
+    component: ComponentCreator('/docs', 'ae5'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '0a8'),
+        component: ComponentCreator('/docs', '19c'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '5fd'),
+            component: ComponentCreator('/docs', '296'),
             routes: [
               {
                 path: '/docs/category/cli---tutorial',
@@ -79,12 +79,6 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/deploy-your-site',
-                component: ComponentCreator('/docs/tutorial-basics/deploy-your-site', 'e46'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/docs/tutorial-basics/developer-options',
                 component: ComponentCreator('/docs/tutorial-basics/developer-options', '5b6'),
                 exact: true,
@@ -99,6 +93,12 @@ export default [
               {
                 path: '/docs/tutorial-basics/introduction',
                 component: ComponentCreator('/docs/tutorial-basics/introduction', '6a1'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/tutorial-basics/testing-commands',
+                component: ComponentCreator('/docs/tutorial-basics/testing-commands', '477'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

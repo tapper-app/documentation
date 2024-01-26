@@ -1,7 +1,7 @@
 {
   "id": "tutorial-basics/congratulations",
-  "title": "Congratulations!",
-  "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+  "title": "Direct Commands",
+  "description": "Direct Commands Description, These Commands Without Options",
   "source": "@site/docs/tutorial-basics/congratulations.md",
   "sourceDirName": "tutorial-basics",
   "slug": "/tutorial-basics/congratulations",
@@ -17,8 +17,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Deploy your site",
-    "permalink": "/docs/tutorial-basics/deploy-your-site"
+    "title": "Testing Commands",
+    "permalink": "/docs/tutorial-basics/testing-commands"
   },
   "next": {
     "title": "Tutorial - Extras",

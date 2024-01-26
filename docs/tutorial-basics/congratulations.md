@@ -2,22 +2,27 @@
 sidebar_position: 6
 ---
 
-# Congratulations!
+# Direct Commands
 
-You have just learned the **basics of Docusaurus** and made some changes to the **initial template**.
+Direct Commands Description, These Commands Without Options
 
-Docusaurus has **much more to offer**!
+The Other Sections in Tapper are
+1. Android Monkey Testing
+2. Android Auto Testing
 
-Have **5 more minutes**? Take a look at **[versioning](../tutorial-extras/manage-docs-versions.md)** and **[i18n](../tutorial-extras/translate-your-site.md)**.
+Android Monkey Testing Simulate Clicks in a Random Locations in the Screen by Specifying the Number of Clicks in the Input
 
-Anything **unclear** or **buggy** in this tutorial? [Please report it!](https://github.com/facebook/docusaurus/discussions/4610)
+Android Auto Testing Simulate Random Testing Commands in Tapper with the Screen Height and this Because you can Specify the Height of the Random Events and Enable the Random Clicks in a Small Context of the Screen Only
 
-## What's next?
+### Monkey Testing Command
 
-- Read the [official documentation](https://docusaurus.io/)
-- Modify your site configuration with [`docusaurus.config.js`](https://docusaurus.io/docs/api/docusaurus-config)
-- Add navbar and footer items with [`themeConfig`](https://docusaurus.io/docs/api/themes/configuration)
-- Add a custom [Design and Layout](https://docusaurus.io/docs/styling-layout)
-- Add a [search bar](https://docusaurus.io/docs/search)
-- Find inspirations in the [Docusaurus showcase](https://docusaurus.io/showcase)
-- Get involved in the [Docusaurus Community](https://docusaurus.io/community/support)
+```
+npx tapper execute-monkey-testing (Number of Clicks)
+```
+
+### Android Auto Testing
+
+```
+npx tapper execute-auto-flow (Number of Events)
+```
+

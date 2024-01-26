@@ -21,11 +21,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/deploy-your-site",
-              "path": "/docs/tutorial-basics/deploy-your-site",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "tutorial-basics/developer-options",
               "path": "/docs/tutorial-basics/developer-options",
               "sidebar": "tutorialSidebar"
@@ -38,6 +33,11 @@
             {
               "id": "tutorial-basics/introduction",
               "path": "/docs/tutorial-basics/introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/testing-commands",
+              "path": "/docs/tutorial-basics/testing-commands",
               "sidebar": "tutorialSidebar"
             },
             {

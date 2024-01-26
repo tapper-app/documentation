@@ -1,0 +1,27 @@
+{
+  "id": "tutorial-basics/testing-commands",
+  "title": "Testing Commands",
+  "description": "Testing Options Description (Commands, Params, Usage)",
+  "source": "@site/docs/tutorial-basics/testing-commands.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/testing-commands",
+  "permalink": "/docs/tutorial-basics/testing-commands",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/testing-commands.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Developer Options",
+    "permalink": "/docs/tutorial-basics/developer-options"
+  },
+  "next": {
+    "title": "Direct Commands",
+    "permalink": "/docs/tutorial-basics/congratulations"
+  }
+}
