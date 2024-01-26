@@ -1,7 +1,8 @@
 {
-  "label": "Tutorial - Extras",
+  "label": "Desktop Application",
   "position": 3,
   "link": {
-    "type": "generated-index"
+    "type": "generated-index",
+    "description": "Desktop Application Guide, How to get Started"
   }
 }

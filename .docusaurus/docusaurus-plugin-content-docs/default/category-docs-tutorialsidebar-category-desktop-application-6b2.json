@@ -1,0 +1,16 @@
+{
+  "title": "Desktop Application",
+  "description": "Desktop Application Guide, How to get Started",
+  "slug": "/category/desktop-application",
+  "permalink": "/docs/category/desktop-application",
+  "navigation": {
+    "previous": {
+      "title": "Direct Commands",
+      "permalink": "/docs/tutorial-basics/congratulations"
+    },
+    "next": {
+      "title": "Configurations",
+      "permalink": "/docs/tutorial-extras/startup"
+    }
+  }
+}

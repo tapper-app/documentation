@@ -11,7 +11,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'Command Line Interface',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/undraw_post_re_mtr4.svg').default,
     description: (
       <>
           Tapper Provide an Interface for All Android Debug Bridge Commands That you need
@@ -22,7 +22,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Desktop Clients',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/undraw_progressive_app_m-9-ms.svg').default,
     description: (
       <>
           Tapper Provide A User Interface for Using The Commands, no need to open the Terminal,
@@ -33,7 +33,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Test Scenarios',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/undraw_android_jr64.svg').default,
     description: (
       <>
           No need To Save the Input, or Repeat the Same Steps Again and Again,

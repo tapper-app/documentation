@@ -54,7 +54,7 @@ const config: Config = {
       title: 'Tapper',
       logo: {
         alt: 'Tapper Logo Icon',
-        src: 'img/logo.svg',
+        src: 'img/logo.png',
       },
       items: [
         {

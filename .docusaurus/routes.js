@@ -44,15 +44,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'ae5'),
+    component: ComponentCreator('/docs', 'c01'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '19c'),
+        component: ComponentCreator('/docs', '87d'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '296'),
+            component: ComponentCreator('/docs', '1e0'),
             routes: [
               {
                 path: '/docs/category/cli---tutorial',
@@ -61,8 +61,8 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/tutorial---extras',
-                component: ComponentCreator('/docs/category/tutorial---extras', 'f09'),
+                path: '/docs/category/desktop-application',
+                component: ComponentCreator('/docs/category/desktop-application', '530'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -103,14 +103,14 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-extras/manage-docs-versions',
-                component: ComponentCreator('/docs/tutorial-extras/manage-docs-versions', 'fdd'),
+                path: '/docs/tutorial-extras/functions',
+                component: ComponentCreator('/docs/tutorial-extras/functions', '095'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-extras/translate-your-site',
-                component: ComponentCreator('/docs/tutorial-extras/translate-your-site', '2d7'),
+                path: '/docs/tutorial-extras/startup',
+                component: ComponentCreator('/docs/tutorial-extras/startup', 'b99'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

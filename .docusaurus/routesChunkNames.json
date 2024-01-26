@@ -49,26 +49,26 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-ae5": {
+  "/docs-c01": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docs-12-f-278"
     }
   },
-  "/docs-19c": {
+  "/docs-87d": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "version": "version---docs-935-398"
   },
-  "/docs-296": {
+  "/docs-1e0": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/category/cli---tutorial-5ce": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-cli-tutorial-3-a-0-30e"
   },
-  "/docs/category/tutorial---extras-f09": {
+  "/docs/category/desktop-application-530": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-tutorial-extrasc-84-abc"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-desktop-application-353-a86"
   },
   "/docs/intro-aed": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -94,13 +94,13 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-tutorial-basics-testing-commandse-37-0f5"
   },
-  "/docs/tutorial-extras/manage-docs-versions-fdd": {
+  "/docs/tutorial-extras/functions-095": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-extras-manage-docs-versionsdff-6d4"
+    "content": "content---docs-tutorial-extras-functionsc-97-ea6"
   },
-  "/docs/tutorial-extras/translate-your-site-2d7": {
+  "/docs/tutorial-extras/startup-b99": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-extras-translate-your-sitee-44-ddf"
+    "content": "content---docs-tutorial-extras-startup-66-a-308"
   },
   "/-562": {
     "__comp": "__comp---site-src-pages-index-tsx-1-df-d3e",

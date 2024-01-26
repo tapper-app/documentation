@@ -41,13 +41,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-extras/manage-docs-versions",
-              "path": "/docs/tutorial-extras/manage-docs-versions",
+              "id": "tutorial-extras/functions",
+              "path": "/docs/tutorial-extras/functions",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-extras/translate-your-site",
-              "path": "/docs/tutorial-extras/translate-your-site",
+              "id": "tutorial-extras/startup",
+              "path": "/docs/tutorial-extras/startup",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -56,8 +56,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/tutorial---extras",
-              "path": "/docs/category/tutorial---extras",
+              "id": "/category/desktop-application",
+              "path": "/docs/category/desktop-application",
               "sidebar": "tutorialSidebar"
             }
           ],

@@ -62,26 +62,26 @@
       },
       {
         "type": "category",
-        "label": "Tutorial - Extras",
+        "label": "Desktop Application",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "link",
-            "label": "Manage Docs Versions",
-            "href": "/docs/tutorial-extras/manage-docs-versions",
-            "docId": "tutorial-extras/manage-docs-versions",
+            "label": "Configurations",
+            "href": "/docs/tutorial-extras/startup",
+            "docId": "tutorial-extras/startup",
             "unlisted": false
           },
           {
             "type": "link",
-            "label": "Translate your site",
-            "href": "/docs/tutorial-extras/translate-your-site",
-            "docId": "tutorial-extras/translate-your-site",
+            "label": "Application Functions",
+            "href": "/docs/tutorial-extras/functions",
+            "docId": "tutorial-extras/functions",
             "unlisted": false
           }
         ],
-        "href": "/docs/category/tutorial---extras"
+        "href": "/docs/category/desktop-application"
       }
     ]
   },
@@ -122,16 +122,16 @@
       "description": "Testing Options Description (Commands, Params, Usage)",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-extras/manage-docs-versions": {
-      "id": "tutorial-extras/manage-docs-versions",
-      "title": "Manage Docs Versions",
-      "description": "Docusaurus can manage multiple versions of your docs.",
+    "tutorial-extras/functions": {
+      "id": "tutorial-extras/functions",
+      "title": "Application Functions",
+      "description": "Let's Discover the User Interface Application Functions",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-extras/translate-your-site": {
-      "id": "tutorial-extras/translate-your-site",
-      "title": "Translate your site",
-      "description": "Let's translate docs/intro.md to French.",
+    "tutorial-extras/startup": {
+      "id": "tutorial-extras/startup",
+      "title": "Configurations",
+      "description": "Lets See how to Configure Tapper Desktop Application to Start",
       "sidebar": "tutorialSidebar"
     }
   }
