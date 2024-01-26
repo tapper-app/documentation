@@ -6,8 +6,8 @@
 export default {
   "title": "Tapper",
   "tagline": "Android Debug Bridge Toolkit, User Interface and CLI",
-  "favicon": "img/favicon.ico",
-  "url": "https://www.tapperapp.com",
+  "favicon": "img/logo.svg",
+  "url": "https://docs.tapperapp.com",
   "baseUrl": "/",
   "organizationName": "tapper-app",
   "projectName": "Tapper",
