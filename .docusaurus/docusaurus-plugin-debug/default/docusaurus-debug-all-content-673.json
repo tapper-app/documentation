@@ -38,8 +38,8 @@
               },
               "sidebar": "tutorialSidebar",
               "next": {
-                "title": "Tutorial - Basics",
-                "permalink": "/docs/category/tutorial---basics"
+                "title": "CLI - Tutorial",
+                "permalink": "/docs/category/cli---tutorial"
               }
             },
             {
@@ -70,87 +70,6 @@
               }
             },
             {
-              "id": "tutorial-basics/create-a-blog-post",
-              "title": "Create a Blog Post",
-              "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
-              "source": "@site/docs/tutorial-basics/create-a-blog-post.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/create-a-blog-post",
-              "permalink": "/docs/tutorial-basics/create-a-blog-post",
-              "draft": false,
-              "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/create-a-blog-post.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 3,
-              "frontMatter": {
-                "sidebar_position": 3
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Create a Document",
-                "permalink": "/docs/tutorial-basics/create-a-document"
-              },
-              "next": {
-                "title": "Markdown Features",
-                "permalink": "/docs/tutorial-basics/markdown-features"
-              }
-            },
-            {
-              "id": "tutorial-basics/create-a-document",
-              "title": "Create a Document",
-              "description": "Documents are groups of pages connected through:",
-              "source": "@site/docs/tutorial-basics/create-a-document.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/create-a-document",
-              "permalink": "/docs/tutorial-basics/create-a-document",
-              "draft": false,
-              "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/create-a-document.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 2,
-              "frontMatter": {
-                "sidebar_position": 2
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Create a Page",
-                "permalink": "/docs/tutorial-basics/create-a-page"
-              },
-              "next": {
-                "title": "Create a Blog Post",
-                "permalink": "/docs/tutorial-basics/create-a-blog-post"
-              }
-            },
-            {
-              "id": "tutorial-basics/create-a-page",
-              "title": "Create a Page",
-              "description": "Add Markdown or React files to src/pages to create a standalone page:",
-              "source": "@site/docs/tutorial-basics/create-a-page.md",
-              "sourceDirName": "tutorial-basics",
-              "slug": "/tutorial-basics/create-a-page",
-              "permalink": "/docs/tutorial-basics/create-a-page",
-              "draft": false,
-              "unlisted": false,
-              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/create-a-page.md",
-              "tags": [],
-              "version": "current",
-              "sidebarPosition": 1,
-              "frontMatter": {
-                "sidebar_position": 1
-              },
-              "sidebar": "tutorialSidebar",
-              "previous": {
-                "title": "Tutorial - Basics",
-                "permalink": "/docs/category/tutorial---basics"
-              },
-              "next": {
-                "title": "Create a Document",
-                "permalink": "/docs/tutorial-basics/create-a-document"
-              }
-            },
-            {
               "id": "tutorial-basics/deploy-your-site",
               "title": "Deploy your site",
               "description": "Docusaurus is a static-site-generator (also called Jamstack).",
@@ -178,6 +97,87 @@
               }
             },
             {
+              "id": "tutorial-basics/developer-options",
+              "title": "Developer Options",
+              "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+              "source": "@site/docs/tutorial-basics/developer-options.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/developer-options",
+              "permalink": "/docs/tutorial-basics/developer-options",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/developer-options.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "General Options",
+                "permalink": "/docs/tutorial-basics/general-options"
+              },
+              "next": {
+                "title": "Markdown Features",
+                "permalink": "/docs/tutorial-basics/markdown-features"
+              }
+            },
+            {
+              "id": "tutorial-basics/general-options",
+              "title": "General Options",
+              "description": "General Options Description (Commands, Params, Usage)",
+              "source": "@site/docs/tutorial-basics/general-options.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/general-options",
+              "permalink": "/docs/tutorial-basics/general-options",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/general-options.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "CLI Introduction",
+                "permalink": "/docs/tutorial-basics/introduction"
+              },
+              "next": {
+                "title": "Developer Options",
+                "permalink": "/docs/tutorial-basics/developer-options"
+              }
+            },
+            {
+              "id": "tutorial-basics/introduction",
+              "title": "CLI Introduction",
+              "description": "A Brief description about CLI Options",
+              "source": "@site/docs/tutorial-basics/introduction.md",
+              "sourceDirName": "tutorial-basics",
+              "slug": "/tutorial-basics/introduction",
+              "permalink": "/docs/tutorial-basics/introduction",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/introduction.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "CLI - Tutorial",
+                "permalink": "/docs/category/cli---tutorial"
+              },
+              "next": {
+                "title": "General Options",
+                "permalink": "/docs/tutorial-basics/general-options"
+              }
+            },
+            {
               "id": "tutorial-basics/markdown-features",
               "title": "Markdown Features",
               "description": "Docusaurus supports Markdown and a few additional features.",
@@ -196,8 +196,8 @@
               },
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Create a Blog Post",
-                "permalink": "/docs/tutorial-basics/create-a-blog-post"
+                "title": "Developer Options",
+                "permalink": "/docs/tutorial-basics/developer-options"
               },
               "next": {
                 "title": "Deploy your site",
@@ -264,21 +264,21 @@
               },
               {
                 "type": "category",
-                "label": "Tutorial - Basics",
+                "label": "CLI - Tutorial",
                 "collapsible": true,
                 "collapsed": true,
                 "items": [
                   {
                     "type": "doc",
-                    "id": "tutorial-basics/create-a-page"
+                    "id": "tutorial-basics/introduction"
                   },
                   {
                     "type": "doc",
-                    "id": "tutorial-basics/create-a-document"
+                    "id": "tutorial-basics/general-options"
                   },
                   {
                     "type": "doc",
-                    "id": "tutorial-basics/create-a-blog-post"
+                    "id": "tutorial-basics/developer-options"
                   },
                   {
                     "type": "doc",
@@ -295,9 +295,9 @@
                 ],
                 "link": {
                   "type": "generated-index",
-                  "description": "5 minutes to learn the most important Docusaurus concepts.",
-                  "slug": "/category/tutorial---basics",
-                  "permalink": "/docs/category/tutorial---basics"
+                  "description": "Command Line Interface Description",
+                  "slug": "/category/cli---tutorial",
+                  "permalink": "/docs/category/cli---tutorial"
                 }
               },
               {

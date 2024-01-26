@@ -18,29 +18,29 @@
       },
       {
         "type": "category",
-        "label": "Tutorial - Basics",
+        "label": "CLI - Tutorial",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "link",
-            "label": "Create a Page",
-            "href": "/docs/tutorial-basics/create-a-page",
-            "docId": "tutorial-basics/create-a-page",
+            "label": "CLI Introduction",
+            "href": "/docs/tutorial-basics/introduction",
+            "docId": "tutorial-basics/introduction",
             "unlisted": false
           },
           {
             "type": "link",
-            "label": "Create a Document",
-            "href": "/docs/tutorial-basics/create-a-document",
-            "docId": "tutorial-basics/create-a-document",
+            "label": "General Options",
+            "href": "/docs/tutorial-basics/general-options",
+            "docId": "tutorial-basics/general-options",
             "unlisted": false
           },
           {
             "type": "link",
-            "label": "Create a Blog Post",
-            "href": "/docs/tutorial-basics/create-a-blog-post",
-            "docId": "tutorial-basics/create-a-blog-post",
+            "label": "Developer Options",
+            "href": "/docs/tutorial-basics/developer-options",
+            "docId": "tutorial-basics/developer-options",
             "unlisted": false
           },
           {
@@ -65,7 +65,7 @@
             "unlisted": false
           }
         ],
-        "href": "/docs/category/tutorial---basics"
+        "href": "/docs/category/cli---tutorial"
       },
       {
         "type": "category",
@@ -105,28 +105,28 @@
       "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-basics/create-a-blog-post": {
-      "id": "tutorial-basics/create-a-blog-post",
-      "title": "Create a Blog Post",
-      "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
-      "sidebar": "tutorialSidebar"
-    },
-    "tutorial-basics/create-a-document": {
-      "id": "tutorial-basics/create-a-document",
-      "title": "Create a Document",
-      "description": "Documents are groups of pages connected through:",
-      "sidebar": "tutorialSidebar"
-    },
-    "tutorial-basics/create-a-page": {
-      "id": "tutorial-basics/create-a-page",
-      "title": "Create a Page",
-      "description": "Add Markdown or React files to src/pages to create a standalone page:",
-      "sidebar": "tutorialSidebar"
-    },
     "tutorial-basics/deploy-your-site": {
       "id": "tutorial-basics/deploy-your-site",
       "title": "Deploy your site",
       "description": "Docusaurus is a static-site-generator (also called Jamstack).",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/developer-options": {
+      "id": "tutorial-basics/developer-options",
+      "title": "Developer Options",
+      "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/general-options": {
+      "id": "tutorial-basics/general-options",
+      "title": "General Options",
+      "description": "General Options Description (Commands, Params, Usage)",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/introduction": {
+      "id": "tutorial-basics/introduction",
+      "title": "CLI Introduction",
+      "description": "A Brief description about CLI Options",
       "sidebar": "tutorialSidebar"
     },
     "tutorial-basics/markdown-features": {

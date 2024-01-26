@@ -1,0 +1,16 @@
+{
+  "title": "CLI - Tutorial",
+  "description": "Command Line Interface Description",
+  "slug": "/category/cli---tutorial",
+  "permalink": "/docs/category/cli---tutorial",
+  "navigation": {
+    "previous": {
+      "title": "Intro",
+      "permalink": "/docs/intro"
+    },
+    "next": {
+      "title": "CLI Introduction",
+      "permalink": "/docs/tutorial-basics/introduction"
+    }
+  }
+}

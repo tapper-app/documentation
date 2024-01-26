@@ -17,8 +17,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Create a Blog Post",
-    "permalink": "/docs/tutorial-basics/create-a-blog-post"
+    "title": "Developer Options",
+    "permalink": "/docs/tutorial-basics/developer-options"
   },
   "next": {
     "title": "Deploy your site",

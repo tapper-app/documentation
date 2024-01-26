@@ -186,22 +186,16 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-8da": {
-    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
-    "__context": {
-      "plugin": "plugin---docs-12-f-278"
-    }
-  },
-  "/docs-40b": {
+  "/docs-a63": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "version": "version---docs-935-398"
   },
-  "/docs-292": {
+  "/docs-822": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
-  "/docs/category/tutorial---basics-d44": {
+  "/docs/category/cli---tutorial-5ce": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-tutorial-basicsea-8-8c8"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-cli-tutorial-3-a-0-30e"
   },
   "/docs/category/tutorial---extras-f09": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
@@ -215,21 +209,21 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-tutorial-basics-congratulations-822-958"
   },
-  "/docs/tutorial-basics/create-a-blog-post-68e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-blog-post-533-e85"
-  },
-  "/docs/tutorial-basics/create-a-document-c2d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-document-1-e-4-078"
-  },
-  "/docs/tutorial-basics/create-a-page-f44": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-tutorial-basics-create-a-page-5-c-8-e19"
-  },
   "/docs/tutorial-basics/deploy-your-site-e46": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-tutorial-basics-deploy-your-sitef-55-a3f"
+  },
+  "/docs/tutorial-basics/developer-options-5b6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-basics-developer-optionsea-3-a08"
+  },
+  "/docs/tutorial-basics/general-options-a35": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-basics-general-optionsc-90-0c2"
+  },
+  "/docs/tutorial-basics/introduction-6a1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorial-basics-introduction-1-e-5-1bd"
   },
   "/docs/tutorial-basics/markdown-features-4b7": {
     "__comp": "__comp---theme-doc-item-178-a40",

@@ -1,6 +1,6 @@
 {
   "id": "tutorial-basics/create-a-document",
-  "title": "Create a Document",
+  "title": "General Options",
   "description": "Documents are groups of pages connected through:",
   "source": "@site/docs/tutorial-basics/create-a-document.md",
   "sourceDirName": "tutorial-basics",
@@ -17,8 +17,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Create a Page",
-    "permalink": "/docs/tutorial-basics/create-a-page"
+    "title": "CLI Introduction",
+    "permalink": "/docs/tutorial-basics/introduction"
   },
   "next": {
     "title": "Create a Blog Post",
