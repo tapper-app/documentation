@@ -29,10 +29,6 @@ export default {
           "sidebarPath": "./sidebars.ts",
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
-        "blog": {
-          "showReadingTime": false,
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
-        },
         "theme": {
           "customCss": "./src/css/custom.css"
         }
@@ -53,16 +49,6 @@ export default {
           "sidebarId": "tutorialSidebar",
           "position": "left",
           "label": "Docs"
-        },
-        {
-          "to": "/blog",
-          "label": "Blog",
-          "position": "left"
-        },
-        {
-          "href": "https://github.com/tapper-app",
-          "label": "GitHub",
-          "position": "right"
         }
       ],
       "hideOnScroll": false

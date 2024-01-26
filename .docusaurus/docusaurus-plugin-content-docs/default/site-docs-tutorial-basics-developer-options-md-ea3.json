@@ -1,7 +1,7 @@
 {
   "id": "tutorial-basics/developer-options",
   "title": "Developer Options",
-  "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+  "description": "Developer Options Description (Commands, Params, Usage)",
   "source": "@site/docs/tutorial-basics/developer-options.md",
   "sourceDirName": "tutorial-basics",
   "slug": "/tutorial-basics/developer-options",
@@ -21,7 +21,7 @@
     "permalink": "/docs/tutorial-basics/general-options"
   },
   "next": {
-    "title": "Markdown Features",
-    "permalink": "/docs/tutorial-basics/markdown-features"
+    "title": "Deploy your site",
+    "permalink": "/docs/tutorial-basics/deploy-your-site"
   }
 }

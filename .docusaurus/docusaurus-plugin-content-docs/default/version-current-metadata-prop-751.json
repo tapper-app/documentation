@@ -45,13 +45,6 @@
           },
           {
             "type": "link",
-            "label": "Markdown Features",
-            "href": "/docs/tutorial-basics/markdown-features",
-            "docId": "tutorial-basics/markdown-features",
-            "unlisted": false
-          },
-          {
-            "type": "link",
             "label": "Deploy your site",
             "href": "/docs/tutorial-basics/deploy-your-site",
             "docId": "tutorial-basics/deploy-your-site",
@@ -114,7 +107,7 @@
     "tutorial-basics/developer-options": {
       "id": "tutorial-basics/developer-options",
       "title": "Developer Options",
-      "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+      "description": "Developer Options Description (Commands, Params, Usage)",
       "sidebar": "tutorialSidebar"
     },
     "tutorial-basics/general-options": {
@@ -127,12 +120,6 @@
       "id": "tutorial-basics/introduction",
       "title": "CLI Introduction",
       "description": "A Brief description about CLI Options",
-      "sidebar": "tutorialSidebar"
-    },
-    "tutorial-basics/markdown-features": {
-      "id": "tutorial-basics/markdown-features",
-      "title": "Markdown Features",
-      "description": "Docusaurus supports Markdown and a few additional features.",
       "sidebar": "tutorialSidebar"
     },
     "tutorial-extras/manage-docs-versions": {

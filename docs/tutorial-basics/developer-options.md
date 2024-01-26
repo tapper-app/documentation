@@ -4,31 +4,82 @@ sidebar_position: 3
 
 # Developer Options
 
-Docusaurus creates a **page for each blog post**, but also a **blog index page**, a **tag system**, an **RSS** feed...
+Developer Options Description (Commands, Params, Usage)
 
-## Create your first Post
+# Developer Options List
+1. Toggle GPU Overdraw
+2. Toggle Layout Bounds
+3. Toggle Touches
+4. Toggle Pointer Location
+5. Toggle Strict Mode
+6. Toggle GPU Updates
+7. Toggle Hardware Accelerator
+8. Force RTL
+9. Change GPU Rendering
 
-Create a file at `blog/2021-02-28-greetings.md`:
 
-```md title="blog/2021-02-28-greetings.md"
----
-slug: greetings
-title: Greetings!
-authors:
-  - name: Joel Marcey
-    title: Co-creator of Docusaurus 1
-    url: https://github.com/JoelMarcey
-    image_url: https://github.com/JoelMarcey.png
-  - name: Sébastien Lorber
-    title: Docusaurus maintainer
-    url: https://sebastienlorber.com
-    image_url: https://github.com/slorber.png
-tags: [greetings]
----
+# Commands Examples
 
-Congratulations, you have made your first post!
+The Command Pattern in Developer Options Commands is
 
-Feel free to play around and edit this post as much you like.
+```
+npx tapper execute-dev-options {key} {value}
 ```
 
-A new blog post is now available at [http://localhost:3000/blog/greetings](http://localhost:3000/blog/greetings).
+## Commands Shortcuts and Keys
+All of the Following Commands Can be Executed from Terminal Directly Without Opening the CLI with a Direct Command, also the Cli Support Dropdown Picker when you run the tapper Command Only without any Params
+
+
+#### Toggle GPU Overdraw
+
+```
+npx tapper execute-dev-options overdraw y/n
+```
+
+#### Toggle Layout Bounds
+
+```
+npx tapper execute-dev-options layout y/n
+```
+
+#### Toggle Touches
+
+```
+npx tapper execute-dev-options touch y/n
+```
+
+#### Toggle Pointer Location
+
+```
+npx tapper execute-dev-options pointer y/n
+```
+
+#### Toggle Strict Mode
+
+```
+npx tapper execute-dev-options strict y/n
+```
+
+#### Toggle GPU Updates
+
+```
+npx tapper execute-dev-options gpu-updates y/n
+```
+
+#### Toggle Hardware Accelerator
+
+```
+npx tapper execute-dev-options hardware y/n
+```
+
+#### Force RTL
+
+```
+npx tapper execute-dev-options rtl y/n
+```
+
+#### Change GPU Rendering
+
+```
+npx tapper execute-dev-options gpu-rendering {(o,v) for (OpenGL, Vulkan)}
+```

@@ -38,76 +38,21 @@ export default [
     exact: true
   },
   {
-    path: '/blog',
-    component: ComponentCreator('/blog', 'b70'),
-    exact: true
-  },
-  {
-    path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', '650'),
-    exact: true
-  },
-  {
-    path: '/blog/first-blog-post',
-    component: ComponentCreator('/blog/first-blog-post', '3c2'),
-    exact: true
-  },
-  {
-    path: '/blog/long-blog-post',
-    component: ComponentCreator('/blog/long-blog-post', '7d3'),
-    exact: true
-  },
-  {
-    path: '/blog/mdx-blog-post',
-    component: ComponentCreator('/blog/mdx-blog-post', '384'),
-    exact: true
-  },
-  {
-    path: '/blog/tags',
-    component: ComponentCreator('/blog/tags', '41f'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/docusaurus',
-    component: ComponentCreator('/blog/tags/docusaurus', 'fae'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/facebook',
-    component: ComponentCreator('/blog/tags/facebook', 'dda'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/hello',
-    component: ComponentCreator('/blog/tags/hello', '943'),
-    exact: true
-  },
-  {
-    path: '/blog/tags/hola',
-    component: ComponentCreator('/blog/tags/hola', 'c76'),
-    exact: true
-  },
-  {
-    path: '/blog/welcome',
-    component: ComponentCreator('/blog/welcome', '505'),
-    exact: true
-  },
-  {
     path: '/markdown-page',
     component: ComponentCreator('/markdown-page', '016'),
     exact: true
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'a63'),
+    component: ComponentCreator('/docs', 'd01'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'a63'),
+        component: ComponentCreator('/docs', '0a8'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '822'),
+            component: ComponentCreator('/docs', '5fd'),
             routes: [
               {
                 path: '/docs/category/cli---tutorial',
@@ -154,12 +99,6 @@ export default [
               {
                 path: '/docs/tutorial-basics/introduction',
                 component: ComponentCreator('/docs/tutorial-basics/introduction', '6a1'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/tutorial-basics/markdown-features',
-                component: ComponentCreator('/docs/tutorial-basics/markdown-features', '4b7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
